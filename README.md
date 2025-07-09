@@ -52,8 +52,8 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone [your-repo-url]
-   cd weather-dashboard
+   git clone [https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-AmungaBrenda.git]
+   cd week-3-react-js-assignment-AmungaBrenda
    ```
 
 2. **Install dependencies**
